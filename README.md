@@ -111,7 +111,7 @@ Covered:
 
 ## 📬 Contact
 📧 Email:magedbinlaswad@gmail.com
-🔗 LinkedIn: [Add profile link]  
+🔗 LinkedIn: www.linkedin.com/in/maged-binlaswad-63261726a 
 🐙 GitHub: https://github.com/magedbinlaswad
 
 ---

@@ -101,7 +101,7 @@ Jawaharlal Nehru Technological University Hyderabad (JNTUH), India
 📅 Jul 2025 – Nov 2025 – Digital Edify Technologies  
 Covered:
 - ETL/ELT pipelines  
-- Azure ADF / Databricks / Synapse  
+- Azure ADF | Databricks | Synapse  
 - Stream Analytics  
 - Microsoft Fabric  
 - Data governance & optimization  

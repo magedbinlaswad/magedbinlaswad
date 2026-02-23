@@ -53,6 +53,11 @@ SQL Server | Python (Pandas, NumPy, Matplotlib) | Power BI
 ### 🔹 2. Azure Data Factory CI/CD Automation
 Built CI/CD workflows for Azure Data Factory using GitHub Actions and ARM templates.
 
+🔗 Repositories:
+- [ADF CI/CD Workflow 1](https://github.com/magedbinlaswad/cicd_in_adf1)
+- [ADF CI/CD Workflow 2](https://github.com/magedbinlaswad/icd_in_adf2)
+
+  
 **Key Highlights:**
 - Automated deployment from DEV → PROD
 - Infrastructure-as-Code (ARM Templates)
@@ -65,6 +70,8 @@ Technologies: Azure Data Factory | GitHub Actions | ARM Templates
 
 ### 🔹 3. Python Data Processing Utilities
 A collection of reusable Python scripts for:
+
+🔗 Repository: [View Project](https://github.com/magedbinlaswad/Python-2516)
 
 - Data wrangling
 - File transformation

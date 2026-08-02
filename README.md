@@ -1,6 +1,6 @@
 # 👋 Maged Bin Laswad
 
-### Data Analyst | SQL | Python | Power BI | ETL
+### Data Analyst | Reporting Analyst | SQL | Python | Power BI | Advanced Excel | ETL & EDA
 
 I am a results-driven **Data Analyst** with strong hands-on experience in turning complex, multi-domain raw data into actionable business intelligence. My core expertise centers on advanced data cleaning, exploratory data analysis (EDA), and developing automated reporting solutions that help businesses make faster, data-backed decisions.
 

@@ -2,6 +2,7 @@
 
 ### Data Analyst | Reporting Analyst | SQL | Python | Power BI | Advanced Excel | ETL & EDA
 
+
 I am a results-driven **Data Analyst** with strong hands-on experience in turning complex, multi-domain raw data into actionable business intelligence. My core expertise centers on advanced data cleaning, exploratory data analysis (EDA), and developing automated reporting solutions that help businesses make faster, data-backed decisions.
 
 With a proven track record across sectors like **Logistics, Healthcare, and Ticketing/Entertainment**, I specialize in querying large databases using **SQL**, manipulating data with **Python**, and building interactive, executive-ready dashboards in **Power BI** and **Advanced Excel**. 

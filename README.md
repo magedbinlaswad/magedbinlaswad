@@ -2,34 +2,21 @@
 
 ### Data Analyst | SQL | Python | Power BI | ETL
 
-I am a Data Analyst focused on transforming raw data into actionable business insights.  
-My expertise lies in SQL analytics, KPI development, data cleaning, and interactive dashboard reporting.
+I am a results-driven **Data Analyst** with strong hands-on experience in turning complex, multi-domain raw data into actionable business intelligence. My core expertise centers on advanced data cleaning, exploratory data analysis (EDA), and developing automated reporting solutions that help businesses make faster, data-backed decisions.
 
-I enjoy analyzing business performance, customer behavior, and revenue trends to support data-driven decision-making.
+With a proven track record across sectors like **Logistics, Healthcare, and Ticketing/Entertainment**, I specialize in querying large databases using **SQL**, manipulating data with **Python**, and building interactive, executive-ready dashboards in **Power BI** and **Advanced Excel**. 
 
-
----
-
-## 🛠 Technical Skills
-
-**Analytics & BI**
-- SQL Server
-- Power BI
-- Microsoft Excel (Advanced)
-- KPI Development
-- Data Visualization
-- Exploratory Data Analysis (EDA)
-
-**Programming**
-- Python (Pandas, NumPy, Matplotlib)
-
-**Cloud & Data Platforms**
-- Azure Data Factory
-- Azure Databricks
-- Azure Synapse Analytics
-- ETL / ELT Concepts
+I thrive on uncovering hidden trends, optimizing key operational metrics (KPIs), and streamlining data workflows to bring maximum efficiency and strategic clarity to organizations.
 
 ---
+
+## 🛠️ Technical Skills
+
+* **Data Analysis & Visualization:** Power BI, Advanced Excel (Pivot Tables, Power Query, VBA), Exploratory Data Analysis (EDA), KPI Dashboards, Report Automation
+* **Databases & Querying:** SQL (SQL Server, PostgreSQL, MySQL) – *Joins, Subqueries, Aggregations, Stored Procedures, Views*
+* **Programming & Libraries:** Python (`Pandas`, `NumPy`, `Matplotlib`, `Seaborn`)
+* **Data Engineering & Workflow:** Data Cleaning & Transformation, ETL Process Basics, Azure Data Factory
+* **Business Domains:** Logistics, Healthcare, Entertainment & Ticketing Analytics
 
 ## 🧪 Featured Projects
 
@@ -84,21 +71,29 @@ This project demonstrates strong hands-on coding and data transformation skills.
 
 ## 💼 Professional Experience
 
-### Business Analytics Intern – BACentric Solutions  
-📅 Feb 2025 – May 2025 | Hyderabad
+### **Reporting Analyst** | **KAPITAL INFORMATION TECHNOLOGIES**  
+*Aug 2023 – Feb 2026 | Hyderabad, Telangana, India*
 
-- Analyzed business datasets using SQL & Excel  
-- Built KPI reports and dashboards  
-- Supported data-driven decision-making  
-- Assisted in documentation and reporting processes  
+* **End-to-End Data Processing:** Managed multi-domain data reporting workflows across Logistics, Healthcare, and Entertainment/Ticketing sectors.
+* **Data Cleaning & Transformation:** Utilized Advanced Excel and SQL to clean, validate, and structure raw, complex datasets into accurate, actionable business insights.
+* **Domain & Sales Analytics:** Analyzed weekly ticketing data, sales metrics, and customer demand trends to drive strategic commercial decision-making.
+* **Dashboard & KPI Development:** Designed and maintained interactive Power BI and Excel dashboards to monitor key business performance indicators for senior leadership.
+* **Process Standardization:** Streamlined daily, weekly, and monthly reporting schedules, significantly enhancing data accuracy and reducing turnaround time for executive review.
+* **Stakeholder Alignment:** Collaborated with cross-functional teams to translate business requirements into tailored visual models and clear performance metrics.
 
 ---
 
-## 🎓 Education
+### **Data Analyst Intern** | **ExcelR** *(Training Program)*  
+*Jan 2023 – Jun 2023 | Hyderabad, Telangana, India*
 
-**M.Tech – Computer Science & Engineering**  
-Jawaharlal Nehru Technological University Kakinada  
-📅 Nov 2023   
+* **Hands-on Analytics Training:** Applied SQL, Python, and Advanced Excel to analyze real-world transactional datasets.
+* **Exploratory Data Analysis (EDA):** Executed data cleaning, transformation, and EDA techniques to fix data inconsistencies and handle missing values.
+* **Data Visualization & Reporting:** Developed analytical dashboards using Power BI and Excel to identify critical business trends and operational metrics.
+* **Database Querying:** Leveraged complex SQL queries (Joins, Subqueries, Aggregations) to extract precise datasets for data-driven analysis.
+
+---
+
+## 🎓 Education  
 
 **B.Tech – Computer Science & Engineering**  
 Jawaharlal Nehru Technological University Hyderabad  

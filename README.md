@@ -86,8 +86,7 @@ Developed CI/CD workflows for **Azure Data Factory** using GitHub Actions and AR
 
 🔗 Repositories:
 
-* [ADF CI/CD Workflow 1](https://github.com/magedbinlaswad/cicd_in_adf1)
-* [ADF CI/CD Workflow 2](https://github.com/magedbinlaswad/icd_in_adf2)
+* [ADF CI/CD Workflow](https://github.com/magedbinlaswad/cicd_in_adf)
 
 **Key Highlights:**
 

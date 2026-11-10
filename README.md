@@ -1,149 +1,55 @@
-# 👋 Maged Bin Laswad
+# Maged Bin Laswad
 
-### Data Analyst | Reporting Analyst | Power BI (PL-300) | SQL | Excel Expert | Power Query
+**Data & Reporting Analyst | Power BI | SQL | Workflow Automation**
 
-Results-driven **Data & Reporting Analyst** with 2.5 years of professional experience transforming retail and ticketing data into actionable business insights and reliable management reporting.
+Riyadh, Saudi Arabia · Available for on-site opportunities
 
-Certified in **Power BI (PL-300)** and recognized as a **Microsoft Office Excel Expert**, with hands-on experience in data preparation, SQL-based validation, KPI reporting, dashboard development, and recurring reporting workflows.
+I turn operational data into clear reports, reliable KPIs, and practical dashboards. My work focuses on data quality, customer and revenue analysis, logistics performance, and automating repetitive document and reporting tasks.
 
-My core focus is using **SQL, Advanced Excel, Power Query, and Power BI** to clean and validate data, analyze business performance, identify trends and anomalies, and communicate results through clear dashboards and management reports.
+**Microsoft Certified: Power BI Data Analyst Associate (PL-300)** · **Microsoft Office Specialist: Excel Expert**
 
----
+[LinkedIn](https://www.linkedin.com/in/maged-binlaswad-63261726a/) · [Email](mailto:magedbinlaswad@gmail.com)
 
-## 🛠️ Technical Skills
+## Selected projects
 
-* **Data Analysis & Reporting:** Data Analysis, KPI Reporting, Data Cleaning & Transformation, Data Validation & Reconciliation, Data Modeling, Dashboard Development
-* **SQL & Databases:** SQL Server, PostgreSQL, MySQL — Joins, Group By, Aggregations, Filters, CTEs, Window Functions
-* **Business Intelligence:** Power BI, Microsoft Excel (Expert), Power Query, Looker Studio, Google Sheets
-* **Data Workflows:** Reporting Automation, Data Preparation, ETL Basics, Azure Data Factory (ADF)
-* **Analytics Areas:** Customer Analytics, Revenue Analysis, Retail Performance, Ticketing Analytics, Logistics Performance, Anomaly & Compliance Analysis
+### Customer & Revenue Analytics
 
----
+SQL analysis and a Power BI dashboard covering **7,341 orders and 2,716 customers**. Explores monthly revenue, repeat purchasing, customer concentration, and product and country performance.
 
-## 🧪 Featured Projects
+[Explore the project](https://github.com/magedbinlaswad/customer-retention-revenue-dashboard) · [Dashboard preview](https://github.com/magedbinlaswad/customer-retention-revenue-dashboard/blob/main/powerbi/customer-retention-dashboard.png)
 
-### 🔹 1. Customer Retention & Revenue Analytics
+**SQL Server · Power BI · Excel · Power Query**
 
-Analyzed **146K+ sales records** covering **7.3K orders and 2.7K customers** to evaluate revenue performance, customer purchasing behavior, and repeat purchasing patterns.
+### Delhivery Logistics: Performance & Delay Analysis
 
-🔗 Repository: [View Project](https://github.com/magedbinlaswad/customer-retention-revenue-dashboard)
+A documented SQL preparation workflow and Looker Studio dashboard covering **26,369 origin–destination movements and 14,817 trips**. Focuses on data grain, validation, route composition, and travel-time variance against an OSRM baseline.
 
-**Key Analysis:**
+[Explore the project](https://github.com/magedbinlaswad/delhivery-logistics-data-analysis)
 
-* Data cleaning, validation, and preparation
-* Revenue and KPI analysis
-* Customer purchasing behavior
-* Repeat customer analysis
-* Revenue performance by country and product
-* Customer revenue concentration
-* Sales trend analysis
+**SQL Server · Looker Studio · Data Quality**
 
-**Key Findings:**
+### Azure Data Factory CI/CD
 
-* **$3.36M** in total revenue
-* **52% repeat customer rate**
-* **Top 10 customers contributed 17.3% of total sales**
-* **7,341 total orders**
-* **2,716 unique customers**
+A training project demonstrating ADF resource validation, ARM template generation, and deployment configuration with GitHub Actions. Includes implementation details and environment requirements.
 
-**Tools Used:**
-SQL Server | Microsoft Excel | Power Query | Power BI
+[Explore the project](https://github.com/magedbinlaswad/cicd_in_adf)
 
----
+**Azure Data Factory · GitHub Actions · ARM Templates**
 
-### 🔹 2. Delhivery Logistics: Performance & Delay Analysis
+## What I work with
 
-Analyzed logistics operations across **26,369 Origin-Destination records and 14,817 trips** to identify delivery delays, route patterns, geographic bottlenecks, and operational performance gaps.
+| Area | Tools and methods |
+| --- | --- |
+| Analysis & reporting | SQL, KPI definitions, reconciliation, customer and revenue analysis |
+| Business intelligence | Power BI, DAX, data modeling, Looker Studio |
+| Data preparation | Excel, Power Query, data validation and transformation |
+| Automation | n8n, Telegram workflows, document-to-PDF automation |
+| Programming & workflow tools | Python, GitHub, Azure Data Factory |
 
-🔗 Repository: [View Project](https://github.com/magedbinlaswad/delhivery-logistics-data-analysis)
+## Background
 
-**Key Analysis:**
+Reporting Analyst at **KAPITAL INFORMATION TECHNOLOGIES**, Hyderabad, India (August 2023 – February 2026), working with retail and ticketing data, recurring management reports, SQL validation, and dashboards.
 
-* Data cleaning and validation using SQL
-* Duplicate and data quality review
-* Origin-Destination movement analysis
-* Delivery performance tracking
-* Delay duration analysis
-* Geographic performance analysis
-* Route type analysis
+**B.Tech in Computer Science & Engineering** — Jawaharlal Nehru Technological University Hyderabad.
 
-**Key Findings:**
-
-* **14,817 total trips**
-* **26,369 Origin-Destination records**
-* **110-minute average delay**
-* **73.8% FTL vs. 26.2% Carting route composition**
-* Identified geographic and operational delay patterns across states
-
-**Tools Used:**
-SQL Server | Excel | Looker Studio
-
----
-
-### 🔹 3. Azure Data Factory CI/CD Automation
-
-Developed CI/CD workflows for **Azure Data Factory** using GitHub Actions and ARM templates to explore automated deployment and data engineering workflows.
-
-🔗 Repositories:
-
-* [ADF CI/CD Workflow](https://github.com/magedbinlaswad/cicd_in_adf)
-
-**Key Highlights:**
-
-* DEV → PROD deployment workflows
-* ARM Template deployment
-* Pipeline, dataset, and linked service management
-* GitHub Actions integration
-* Data workflow automation
-
-**Technologies:**
-Azure Data Factory | GitHub Actions | ARM Templates
-
----
-
-## 💼 Professional Experience
-
-### **Reporting Analyst | KAPITAL INFORMATION TECHNOLOGIES**
-
-*Aug 2023 – Feb 2026 | Hyderabad, India*
-
-* **Data Preparation & Process Improvement:** Prepared and consolidated large retail and ticketing datasets using Advanced Excel and reusable Power Query workflows, resolving missing values, duplicates, inconsistent formats, and data quality issues while reducing recurring report preparation time by approximately **30%**.
-
-* **SQL Querying & Data Validation:** Queried and validated datasets using SQL, including **Joins, Group By, aggregations, and filters**, to extract targeted business data, reconcile totals, identify duplicate records, and support reliable daily and periodic performance reporting.
-
-* **Executive Reporting & KPI Validation:** Extracted, validated, and reconciled core business KPIs from cleaned datasets before updating scheduled management PowerPoint reports, ensuring consistent figures across source data, analytical outputs, and executive reporting materials.
-
-* **Power BI Dashboard Development:** Designed and maintained interactive Power BI dashboards for **retail sales performance and ticketing operations**, translating operational data into clear KPIs, trends, and performance views used by teams to monitor daily business activity.
-
-* **Anomaly & Compliance Analysis:** Applied targeted SQL queries and Excel-based validation logic to identify unusual transaction patterns and potential policy violations, including **bulk ticket purchases exceeding defined limits and duplicate account activity**, supporting operational review and compliance monitoring.
-
----
-
-### **Data Analyst Intern | ExcelR (Training Program)**
-
-*Jan 2023 – Jun 2023 | Hyderabad, India*
-
-* **Data Preparation & Validation:** Applied Advanced Excel and SQL to clean, organize, and validate transactional datasets for analysis.
-* **SQL Analysis:** Used Joins, Group By, Aggregations, and Filters to extract and analyze targeted business data.
-* **KPI Reporting:** Analyzed sales, customer, and operational metrics to identify trends and performance patterns.
-* **Dashboard Development:** Developed analytical dashboards using Power BI and Excel to present KPIs and business insights clearly.
-
----
-
-## 🎓 Education
-
-**B.Tech – Computer Science & Engineering**
-Jawaharlal Nehru Technological University Hyderabad
-📅 Dec 2020
-
----
-
-## 📬 Contact
-
-📧 **Email:** [magedbinlaswad@gmail.com](mailto:magedbinlaswad@gmail.com)
-🔗 **LinkedIn:** [www.linkedin.com/in/maged-binlaswad-63261726a](http://www.linkedin.com/in/maged-binlaswad-63261726a)
-🐙 **GitHub:** github.com/magedbinlaswad
-
----
-
-⭐ If you find my projects useful, feel free to explore and star the repositories.
+My repositories distinguish analytical findings, published examples, and training work. Each project documents the available files and any requirements for reproducing its results.
